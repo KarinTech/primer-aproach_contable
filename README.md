@@ -1,1 +1,2 @@
-# rosco
+# programa automatizacion contable
+
